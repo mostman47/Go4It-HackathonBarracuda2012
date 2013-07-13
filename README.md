@@ -8,4 +8,5 @@ Semester: Fall 2012
 Hackathon Barracuda 2012
 
 ---------------------
-Code for bots
+-Code for bots
+-They are just raw, so a little ugly
